@@ -1,6 +1,6 @@
 # SCP Drive
 
-Used for scp sunced storage and access via apache httpd.
+Used for scp synced storage and access via apache httpd.
 
 # Notes
 
