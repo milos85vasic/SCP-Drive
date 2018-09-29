@@ -4,4 +4,4 @@ Used for scp synced storage and access via apache httpd.
 
 # Notes
 
-Website root is ./Content directory.
+SCP Drive content root is ./Content directory.
